@@ -1,4 +1,4 @@
 # documentação do componente...
 
 
-Esse componente é supimpa!
+Esse componente é supimpa!!!

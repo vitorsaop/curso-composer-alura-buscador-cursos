@@ -36,6 +36,8 @@ use Symfony\Component\DomCrawler\Crawler;
 
 			$cursos = [];
 
+			
+
 			foreach ($elementosCursos as $elemento) {
 			
 				$cursos[] = $elemento->textContent;
