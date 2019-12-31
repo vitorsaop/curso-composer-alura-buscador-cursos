@@ -14,7 +14,9 @@
     	"files":["./functions.php"]
     	,
     	"psr-4" : {
-        	"Alura\\BuscadorDeCursos\\": "src/"
+
+        	"vitorsaop\\BuscadorDeCursos\\": "src/"
+            
     	}
 	},
     "require-dev": {
