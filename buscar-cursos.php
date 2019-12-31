@@ -5,7 +5,7 @@
 require 'vendor/autoload.php';
 
 
-use Alura\BuscadorDeCursos\Buscador;
+use vitorsaop\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
