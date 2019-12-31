@@ -40,5 +40,7 @@
     ],
     "scripts-descriptions" : {
         "check" : "Roda as verificações do código ....."
-    }
+    },
+    "license" : "GPL-3.0",
+    "bin" : ["buscador-cursos.php"]
 }

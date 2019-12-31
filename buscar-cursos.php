@@ -1,10 +1,7 @@
+#!/usr/bin/env php
 <?php
 
 require 'vendor/autoload.php';
-
-//Teste::metodo();
-//exit();
-
 
 
 use Alura\BuscadorDeCursos\Buscador;
